@@ -93,7 +93,7 @@ docker run -d -p 80:80 pomodoro-timer
 
 Pull from Docker Hub:
 ~~~
-docker pull mishallll/pomodoro-timer
+docker pull your-dockerhub-username/pomodoro-timer
 ~~~
 ☁️ AWS EC2 Deployment
 
