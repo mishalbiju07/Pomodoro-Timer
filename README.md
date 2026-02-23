@@ -8,7 +8,17 @@ This project demonstrates frontend development, production optimization, contain
 
 ## 🚀 Live Application
 
-🔗 http://65.2.124.193:8080/
+🔗 http://65.2.124.193:8080/ 
+
+(it may not always work because the Amazon server might be offline or shut down. Please refer to the screenshots below if the live page does not work)
+<img width="1896" height="922" alt="Screenshot 2026-02-24 000725" src="https://github.com/user-attachments/assets/35b1bb85-1e0c-4e8a-87f1-f4d23ab0271b" />
+
+<img width="1919" height="919" alt="Screenshot 2026-02-24 000800" src="https://github.com/user-attachments/assets/a00b5128-9613-4ed4-b07b-1561c1267043" />
+
+<img width="1919" height="909" alt="Screenshot 2026-02-24 001009" src="https://github.com/user-attachments/assets/dd86b4e3-7839-40c2-8725-c555ead0372e" />
+
+<img width="1919" height="919" alt="Screenshot 2026-02-24 001030" src="https://github.com/user-attachments/assets/963697f3-8be7-4c31-9805-18b27c71e007" />
+<img width="1919" height="919" alt="Screenshot 2026-02-24 001052" src="https://github.com/user-attachments/assets/d8bda4d5-e7d1-4cc0-b49d-c3ae24df4c93" />
 
 
 ---
