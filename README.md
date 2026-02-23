@@ -8,7 +8,8 @@ This project demonstrates frontend development, production optimization, contain
 
 ## 🚀 Live Application
 
-🔗 http://3.110.179.198:8080/
+🔗 http://65.2.124.193:8080/
+
 
 ---
 
